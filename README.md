@@ -29,7 +29,11 @@ After each round, the player is asked if they want to play again. The game conti
   Paper beats Rock
   Ready? Let's go!
   
-  Please select your choice (Rock, Paper or Scissor): rock Choosing... Alice chose rock Computer chose paper Alice loses! Alice chose rock and the computer chose paper.
+  Please select your choice (Rock, Paper or Scissor): rock
+  Choosing...
+  Alice chose rock
+  Computer chose paper
+  Alice loses! Alice chose rock and the computer chose paper.
   
   Do you want to play again? (yes/no): no
 
