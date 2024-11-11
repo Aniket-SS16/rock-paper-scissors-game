@@ -28,7 +28,8 @@ After each round, the player is asked if they want to play again. The game conti
   Scissors beats Paper
   Paper beats Rock
   Ready? Let's go!
-  
+```
+```bash
   Please select your choice (Rock, Paper or Scissor): rock
   Choosing...
   Alice chose rock
